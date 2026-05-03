@@ -217,7 +217,12 @@ George Elassal
 ---
 
 ## References
-Hao et al.
- MEFT: Memory-Efficient Fine-Tuning through Sparse Adapter
- ACL 2024
+[1] Hao, J., Sun, W., Xin, X., Meng, Q., Chen, Z., Ren, P., & Ren, Z. (2024). MEFT: Memory-Efficient Fine-Tuning through Sparse Adapter. In Proceedings of ACL 2024 (pp. 2375–2388). 
+[2] Ren, J., Rajbhandari, S., Aminabadi, R. Y., Ruwase, O., Yang, S., Zhang, M., Li, D., & He, Y. (2021). ZeRO-Offload: Democratizing Billion-Scale Model Training. USENIX ATC 2021. 
+[3] Hu, E. J., Shen, Y., Wallis, P., Allen-Zhu, Z., Li, Y., Wang, S., Wang, L., & Chen, W. (2022). LoRA: Low-Rank Adaptation of Large Language Models. ICLR 2022. 
+[4] He, J., Zhou, C., Ma, X., Berg-Kirkpatrick, T., & Neubig, G. (2022). Towards a Unified View of Parameter-Efficient Transfer Learning. ICLR 2022. [Parallel Adapter] 
+[5] Touvron, H., et al. (2023). LLaMA: Open and Efficient Foundation Language Models. arXiv:2302.13971. 
+[6] Kwiatkowski, T., et al. (2019). Natural Questions: A Benchmark for Question Answering Research. TACL. 
+[7] Zeng, C., Liu, S., Yang, S., Chen, F., Mei, X., & Fu, L. (2025). GQSA: Group Quantization and Sparsity for Accelerating Large Language Model Inference. IJCNLP 2025. [Referenced for future work] 
+
 
