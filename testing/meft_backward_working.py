@@ -2,7 +2,7 @@ import torch
 import torch.nn as nn
 from transformers import AutoModelForCausalLM
 
-# ---- Paste your adapter code here (with small fix) ----
+# ---- adapter code here (with small fix) ----
 
 class SparseCPUAdapter(nn.Module):
     def __init__(self, d_model, rank, top_k):
