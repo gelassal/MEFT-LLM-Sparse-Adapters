@@ -65,7 +65,7 @@ def main():
     print("INSIDE MAIN", flush=True)
 
     model_name = "gpt2-medium"
-    rank = 8192
+    rank = 512
     top_k = 64
     max_length = 128
     batch_size = 1
