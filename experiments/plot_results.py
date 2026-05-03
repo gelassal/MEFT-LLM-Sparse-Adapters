@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-# Results from your runs
+# Results from runs
 baseline_ranks = [256, 512, 1024, 2048, 4096, 8192]
 baseline_vram = [1922.65, 2070.22, 2379.27, 3345.12, 5260.68, 9102.55]
 baseline_speed = [10.323, 10.136, 9.850, 8.104, 5.954, 0.881]
