@@ -216,6 +216,8 @@ George Elassal
 
 ---
 
-## License
+## References
+Hao et al.
+ MEFT: Memory-Efficient Fine-Tuning through Sparse Adapter
+ ACL 2024
 
-MIT License (or choose one)
