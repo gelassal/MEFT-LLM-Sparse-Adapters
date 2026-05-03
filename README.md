@@ -146,13 +146,6 @@ MEFT-LLM-Adapters/
 ├── experiments/           # Plots and analysis
 ├── tests/                 # Injection and sanity tests
 │
-├── train_baseline.py
-├── train_meft.py
-├── plot_results.py
-│
-├── rank_vs_speed.png
-├── rank_vs_vram.png
-│
 └── README.md
 ```
 
