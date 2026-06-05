@@ -1,0 +1,5 @@
+Method,Avg K,Peak VRAM (MB),Speed (steps/sec),Exact Match,Containment
+Fixed K=64,64,3280.55,0.735,0.04,0.3
+Dynamic 3%,30,2520.28,1.462,0.0,0.34
+Dynamic 5%,51,2998.4,0.984,0.04,0.36
+Dynamic 10%,102,4188.62,0.5,0.06,0.4
